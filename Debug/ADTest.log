@@ -1,0 +1,6 @@
+﻿  stdafx.cpp
+  CMSComm.cpp
+  ADTestDlg.cpp
+f:\c++进阶\上下位机进阶\adtest\adtest\adtestdlg.cpp(187): error C2059: 语法错误:“}”
+  ADTest.cpp
+  正在生成代码...
